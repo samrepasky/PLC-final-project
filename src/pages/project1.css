@@ -1,0 +1,20 @@
+.icon-back{
+  height: 35px;
+  width: 35px;
+  margin-left: 20px;
+
+  z-index: 100;
+  color: white;
+}
+.Project1{
+  height: 100%;
+  max-width: auto;
+  margin: 0;
+  background-color: black;
+  position:absolute;
+
+  right:0px;
+  bottom:0px;
+  left:0px;
+  z-index: -1;
+}
