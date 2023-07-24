@@ -3,6 +3,8 @@ that is being routed to app.jsx
 
 This is a React framework used with a vite configuration. We are doing the 3D annimation with react three fiber. 
 
-First, run `npm i`.
-Then, to run code use command `npm run dev`.
-The URL will show up in the terminal, for example: http://localhost:5173/
+# Instructions
+
+- First, run `npm i`.
+- Then, to run code use command `npm run dev`.
+- The URL will show up in the terminal, for example: http://localhost:5173/
