@@ -1,13 +1,24 @@
-The code for everything in the background is in src -> pages -> components1 - > heroBackground
-that is being routed to app.jsx
+# MoonLander V1 🚀🌕
 
-This is a React framework used with a vite configuration. We are doing the 3D annimation with react three fiber. 
+Welcome to Moon Lander v1! This project provides a captivating 3D simulation of a moon landing, allowing you to control a moon lander with arrow keys and a space bar for thruster control.
 
-# Instructions
+## Getting Started 🚀
 
-- First, run `npm i`.
-- Then, to run code use command `npm run dev`.
-- The URL will show up in the terminal, for example: http://localhost:5173/
+To run this project on your local machine, follow these instructions:
+
+1. Install dependencies by running `npm i`.
+
+2. Run the code with the command `npm run dev`.
+
+3. The application will start, and you can access it through the URL shown in the terminal, e.g., http://localhost:5173/.
+
+## Technology Stack 🛠️
+
+- React: The foundation of this project, providing a powerful and flexible UI framework.
+- Vite: A fast and efficient build tool for bundling and development.
+- React Three Fiber: Leveraging the 3D animation capabilities to create an immersive experience.
+
+---
 
 ## Version 1 (Sam's code, the aesthetic formulation):
 - https://github.com/samrepasky/PLC-final-project
@@ -20,3 +31,11 @@ This is a React framework used with a vite configuration. We are doing the 3D an
 
 ## Webpage Demo (Sam's code, a relevant side-project to add to our educational goal):
 - https://github.com/samrepasky/Moon-Lander-Webpage 
+
+---
+
+## Acknowledgments 🙏
+
+We want to express our gratitude to the creators of the tools and libraries that made this project possible. Thank you to the open-source community for the support and inspiration.
+
+Let's explore the moon together! 🌕🌌🌠
